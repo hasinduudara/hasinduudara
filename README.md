@@ -1,6 +1,6 @@
 # Hi there, I'm Hasindu Udara! 👋
 
-### 👨‍💻 Full Stack Developer | MERN Stack | React Native | Java | Python | Aspiring AI Product Engineer | Content Creator
+### 👨‍💻 Full Stack Web Developer | Microservices Engineer | MERN Stack | React Native | Java | Python | Aspiring AI Product Engineer | Content Creator
 
 I'm a passionate developer from **Sri Lanka**, currently pursuing my degree in Software Engineering. I love building web and mobile applications that solve real-world problems. Currently, I'm expanding my knowledge in **AI Engineering** and **Next.js**.
 
