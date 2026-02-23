@@ -90,16 +90,16 @@ Focused on modern software architecture with hands-on experience in **microservi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasinduudara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasinduudara&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasinduudara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=hasinduudara&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinduudara&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinduudara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasinduudara&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasinduudara&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
