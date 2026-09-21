@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=M.%20Hasindu%20Udara&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Agents%20%26%20Automation&descSize=17&descAlignY=52&descColor=d1d5db&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=M.%20Hasindu%20Udara&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Associate%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Agents%20and%20Automation&descSize=17&descAlignY=52&descColor=d1d5db&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Associate+Software+Engineer+%F0%9F%9A%80;Full-Stack+Web+%26+Mobile+Developer;AI+Agents+%2B+Automation+%F0%9F%A4%96;RAG+%7C+MCP+%7C+LLM+Integration;Exploring+Web3+%F0%9F%8C%90;Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Tech+Content+Creator+%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Associate+Software+Engineer+%F0%9F%9A%80;Full-Stack+Web+and+Mobile+Developer;AI+Agents+%2B+Automation+%F0%9F%A4%96;RAG+%E2%80%A2+MCP+%E2%80%A2+LLM+Integration;Exploring+Web3+%F0%9F%8C%90;Cloud+and+DevOps+%E2%98%81%EF%B8%8F;Tech+Content+Creator+%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hasinduudara&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hasinduudara.me-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hasinduudara.me/)
@@ -31,40 +31,16 @@ I document my development journey as a content creator, sharing what I learn abo
 
 ## 💡 Technical Arsenal
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**💠 Backend**
-Java · Spring Boot · Node.js · Express
-
-**💠 Web**
-Next.js · React · Payload CMS · TypeScript · Tailwind CSS
-
-**💠 Mobile**
-React Native · Expo · NativeWind
-
-**💠 Database**
-MongoDB · MySQL · PostgreSQL · Firestore · Vector DB
-
-</td>
-<td valign="top" width="50%">
-
-**💠 Cloud & Architecture**
-Microservices · Azure · GCP · AWS (quick learner)
-
-**💠 AI / Automation**
-LLM Integration · LangChain · MCP · Gemini API · Hugging Face · RAG (learning) · AI Agents
-
-**💠 Web Performance**
-SEO & Web Performance
-
-**💠 Exploring**
-Web3 🌐
-
-</td>
-</tr>
-</table>
+| Category | Skills |
+|---|---|
+| 💠 **Backend** | Java · Spring Boot · Node.js · Express |
+| 💠 **Web** | Next.js · React · Payload CMS · TypeScript · Tailwind CSS |
+| 💠 **Mobile** | React Native · Expo · NativeWind |
+| 💠 **Database** | MongoDB · MySQL · PostgreSQL · Firestore · Vector DB |
+| 💠 **Cloud & Architecture** | Microservices · Azure · GCP · AWS (quick learner) |
+| 💠 **AI / Automation** | LLM Integration · LangChain · MCP · Gemini API · Hugging Face · RAG · AI Agents |
+| 💠 **Web Performance** | SEO & Web Performance |
+| 💠 **Exploring** | Web3 🌐 |
 
 <div align="center">
 
@@ -74,11 +50,11 @@ Web3 🌐
 ![Azure](https://skillicons.dev/icons?i=azure) ![GCP](https://skillicons.dev/icons?i=gcp) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
 
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)](#)
 [![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)](#)
-[![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+[![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logoColor=white)](#)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)](#)
-[![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)](#)
+[![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
@@ -88,7 +64,7 @@ Web3 🌐
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasinduudara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&border_radius=10" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasinduudara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&border_radius=10" height="180" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=hasinduudara&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinduudara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&border_radius=10" height="180" alt="Top Languages"/>
