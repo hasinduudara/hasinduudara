@@ -42,6 +42,8 @@ I document my development journey as a content creator, sharing what I learn abo
 | 💠 **Web Performance** | SEO & Web Performance |
 | 💠 **Exploring** | Web3 🌐 |
 
+<br>
+
 <div align="center">
 
 ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
