@@ -1,99 +1,97 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:24292e&height=220&section=header&text=M.%20Hasindu%20Udara&fontSize=55&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Microservices%20Engineer%20%7C%20Aspiring%20AI%20Product%20Engineer&descSize=18&descAlignY=60&descColor=8b949e)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=M.%20Hasindu%20Udara&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Agents%20%26%20Automation&descSize=17&descAlignY=52&descColor=d1d5db&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+React+Native+%7C+Spring+Boot;Microservices+Engineer+%F0%9F%94%A7;Aspiring+AI+Product+Engineer+%F0%9F%A4%96;Software+Engineering+Undergraduate+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Associate+Software+Engineer+%F0%9F%9A%80;Full-Stack+Web+%26+Mobile+Developer;AI+Agents+%2B+Automation+%F0%9F%A4%96;RAG+%7C+MCP+%7C+LLM+Integration;Exploring+Web3+%F0%9F%8C%90;Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Tech+Content+Creator+%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasinduudara&style=for-the-badge&color=58a6ff)
+![Profile Views](https://komarev.com/ghpvc/?username=hasinduudara&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hasinduudara.me-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hasinduudara.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasindu-udara/)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-<table>
+Software Engineering graduate (**GDSE**, leading to a **BSc (Hons) in Computer Science**) and **Full-Stack Developer** with 6 months of hands-on internship experience building scalable web and mobile applications. 💻🚀
+
+During my internship, I worked across the stack — building backend services with **Java & Spring Boot**, developing content-driven web apps with **Next.js and Payload CMS**, building **React** frontends, and implementing **SEO** for production websites. I also work in the **MERN Stack** (MongoDB, Express, React, Node.js), **TypeScript**, and **React Native (Expo)** with **NativeWind** for mobile, plus **microservices architecture on Azure and GCP**, with AWS as a quick pickup given the overlap.
+
+**🌱 Current Focus — AI Product Engineering**
+I'm actively integrating AI into full-stack products, working with tools like **LangChain**, **Gemini API**, **Model Context Protocol (MCP)**, and **Hugging Face** depending on the project, and currently building my skills in **RAG (Retrieval-Augmented Generation)** applications. I'm also taking my first steps into **Web3**.
+
+**🎯 What I'm Looking For**
+Currently seeking an **Associate Software Engineer (ASE)** role where I can bring my full-stack, cloud, and AI integration experience to a team building production-grade software. I learn new technologies fast and adapt to whatever a project needs.
+
+**🎥 Beyond Code**
+I document my development journey as a content creator, sharing what I learn about full-stack engineering, AI agents, and system architecture through articles on **LinkedIn** and **Medium**.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 💡 Technical Arsenal
+
+<table width="100%">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
-Software Engineering undergraduate with a strong foundation in **scalable full-stack web and mobile development**. Experienced in building diverse applications using the **MERN stack**, **React Native**, **Java (Spring Boot)**, and **Python**.
+**💠 Backend**
+Java · Spring Boot · Node.js · Express
 
-Focused on modern software architecture with hands-on experience in **microservices**. Currently expanding knowledge in cloud and containerization technologies including **Docker**, **Azure**, and **Next.js**.
+**💠 Web**
+Next.js · React · Payload CMS · TypeScript · Tailwind CSS
 
-> 🎯 Seeking a **Software Engineering Internship** to leverage my technical skill set, contribute to real-world projects, and continuously grow in a professional environment.
+**💠 Mobile**
+React Native · Expo · NativeWind
 
-- 🎓 **Software Engineering Undergraduate**
-- 📍 **Deniyaye, Sri Lanka**
-- 🔭 Currently exploring **Docker, Azure & Next.js**
-- 🤖 Interested in **AI Product Engineering**
-- 📬 **hasiduudara@gmail.com**
-- 🌐 **[hasinduudara.me](https://hasinduudara.me/)**
+**💠 Database**
+MongoDB · MySQL · PostgreSQL · Firestore · Vector DB
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+**💠 Cloud & Architecture**
+Microservices · Azure · GCP · AWS (quick learner)
+
+**💠 AI / Automation**
+LLM Integration · LangChain · MCP · Gemini API · Hugging Face · RAG (learning) · AI Agents
+
+**💠 Web Performance**
+SEO & Web Performance
+
+**💠 Exploring**
+Web3 🌐
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-## 🛠️ Tech Stack & Skills
+![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
+![Nextjs](https://skillicons.dev/icons?i=nextjs) ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![React Native](https://skillicons.dev/icons?i=react) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Postgres](https://skillicons.dev/icons?i=postgres) ![Firebase](https://skillicons.dev/icons?i=firebase)
+![Azure](https://skillicons.dev/icons?i=azure) ![GCP](https://skillicons.dev/icons?i=gcp) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)](#)
+[![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)](#)
+[![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)](#)
 
-### 🎨 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### 🤖 Tools & AI
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasinduudara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=hasinduudara&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasinduudara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&border_radius=10" height="180" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=hasinduudara&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinduudara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinduudara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&border_radius=10" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -103,26 +101,22 @@ Focused on modern software architecture with hands-on experience in **microservi
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</div>
 
-## 🌱 Currently Learning
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-| Area | Topic |
-|------|-------|
-| 🌐 **Frontend** | Next.js — Advanced SSR & App Router |
-| ☁️ **Cloud & DevOps** | Docker, Azure, CI/CD with GitHub Actions |
-| 🤖 **AI Engineering** | AI Product Engineering & LLM Integration |
-| 🌍 **Networking** | Computer Networking Fundamentals |
+## 🤝 Open to Connect
 
----
-
-## 📫 Connect with Me
+Open to connecting with developers, mentors, and teams building the future. Let's talk! 🤝
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasindu-udara/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasinduudara)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hasinduudara.me-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hasinduudara.me/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasiduudara@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-077_517_1440-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94775171440)
 
@@ -130,10 +124,8 @@ Focused on modern software architecture with hands-on experience in **microservi
 
 </div>
 
----
-
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24292e,50:1a1b27,100:0D1117&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
 
 </div>
