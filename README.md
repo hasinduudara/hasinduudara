@@ -77,11 +77,11 @@ I document my development journey as a content creator, sharing what I learn abo
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-</div>
+</div> -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"> -->
 
 ## 🤝 Open to Connect
 
